@@ -12,7 +12,7 @@ Cukup Tambahkan saya ke Grupmu Sebagai Admin, Tekan Tombol Bantuan Untuk Info Le
 <b>Inilah Bantuan Untuk Perintahku.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: Min Nyak Tae Won
+➥ Creator: FILM MFA
 ➥ Library: Pyrogram
 ➥ Language: Python 𝟹
 ➥ Data Base: MongoDB
@@ -20,13 +20,13 @@ Cukup Tambahkan saya ke Grupmu Sebagai Admin, Tekan Tombol Bantuan Untuk Info Le
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://t.me/art2work'>Here 👈</a>
+Source: <a href='https://t.me/MoviesubindoMFA_01'>Here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/art2work'>ART2WORK</a>
+- <a href='https://t.me/FilmMFA'>FILM MFA</a>
 
 <b>Grub</b>
-- <a href='https://t.me/search_moviess'>Grub</a>"""
+- <a href='https://t.me/+iXFDwdXc_FswZTNl'>Grub</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -206,11 +206,11 @@ This module only works for my admins
 <b>Used Storage:</b> <code>{}</code> MiB
 <b>Free Storage:</b> <code>{}</code> MiB"""
 
-    FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
+    FORCESUB_TXT = """**♦️ BACA INI ♦️**
 
-__🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈__
+__🗣 Untuk Mendapatkan Film Yang Kamu minta di Grup Kami, Kamu Harus Bergabung dengan Saluran Resmi Kami Terlebih Dahulu.  Setelah Itu, Coba Akses Film Itu Lagi Dari Grup Kami.  Saya Akan Mengirimkan Film Itu Di PM 🙈__
 
-**👇 JOIN THIS CHANNEL & TRY AGAIN 👇**"""
+**👇 JOIN THIS CHANNEL & ULANGI 👇**"""
 
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
