@@ -1,33 +1,32 @@
 class Script(object):
     START_TXT = """Hello {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+Aku  <a href=https://t.me/{}>{}</a>!
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+<b>Aku bisa menyediakan Film.  Mudah Menggunakanku :)
 
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
+Cukup Tambahkan saya ke Grupmu Sebagai Admin, Tekan Tombol Bantuan Untuk Info Lebih Lanjut..</b>"""
 
     HELP_TXT = """Hey {}
 
-<b>Here Is The Help For My Commands.</b>"""
+<b>Inilah Bantuan Untuk Perintahku.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: Zaute Km
+➥ Creator: Min Nyak Tae Won
 ➥ Library: Pyrogram
 ➥ Language: Python 𝟹
 ➥ Data Base: MongoDB
-➥ Bot Server: Railway/Heroku
 ➥ Build Status: v1.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Source: <a href='https://t.me/art2work'>Here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/art2work'>ART2WORK</a>
 
-<b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+<b>Grub</b>
+- <a href='https://t.me/search_moviess'>Grub</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -54,7 +53,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/art2work)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
