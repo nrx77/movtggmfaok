@@ -1,7 +1,7 @@
 class Script(object):
     START_TXT = """Hello {},
 
-Aku  <a href=https://t.me/{}>{}</a>!
+Aku  <a href=https://t.me/bttvybbtdctvygyhybot{}>{}</a>!
 
 <b>Aku bisa menyediakan Film.  Mudah Menggunakanku :)
 
@@ -53,7 +53,7 @@ Source: <a href='https://t.me/MoviesubindoMFA_01'>Here 👈</a>
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/art2work)</code>
+<code>[Button Text](buttonurl:https://t.me/bttvybbtdctvygyhybot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
