@@ -161,8 +161,8 @@ async def imdb_callback(bot: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton(
-                    text=f"Projects Channel",
-                    url="https://t.me/josprojects"
+                    text=f"Channel Movie",
+                    url="https://t.me/MoviesubindoMFA_01"
                 )
             ],
         ]
