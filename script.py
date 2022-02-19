@@ -45,7 +45,7 @@ Source: <a href='https://t.me/MoviesubindoMFA_01'>Here 👈</a>
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- tgmoviebot support both url and alert inline buttons.
+-support both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
