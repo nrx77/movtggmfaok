@@ -2,7 +2,6 @@
 
 ## Features
 
-- [x] Auto Filter
 - [x] Manuel Filter
 - [x] IMDB
 - [x] Admin Commands
