@@ -28,7 +28,7 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `IMDB`: Imdb, the view of information when making True/False.
-* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/josprojects/tgmoviebot/issues/1) True/False.
+* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/josprojects//issues/1) True/False.
 
 ## larger result buttons
 larger results will be better for reading.
@@ -48,7 +48,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/cosadiz69/tgmoviebot/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/cosadiz69//tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -74,7 +74,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-git clone https://github.com/josprojects/tgmoviebot
+git clone https://github.com/josprojects/
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
