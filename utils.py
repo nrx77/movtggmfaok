@@ -173,6 +173,13 @@ async def get_settings(group_id):
         temp.SETTINGS[group_id] = settings
     return settings
 
+async def save_group_settings(group_id, key, value):
+    current = await get_settings(group_id)
+    current[key] = value
+    temp.SETTINGS[group_id] = current
+    await db.update_settings(group_id, current)
+    
+
 
 def get_size(size):
     """Get size in readable format"""
