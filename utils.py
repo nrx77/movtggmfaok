@@ -166,7 +166,12 @@ async def search_gagala(text):
     titles = soup.find_all( 'h3' )
     return [title.getText() for title in titles]
 
-
+async def get_settings(group_id):
+    settings = temp.SETTINGS.get(group_id)
+    if not settings:
+        settings = await db.get_settings(group_id)
+        temp.SETTINGS[group_id] = settings
+    return settings
 
 
 def get_size(size):
