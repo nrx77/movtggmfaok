@@ -12,7 +12,7 @@ Cukup Tambahkan saya ke Grupmu Sebagai Admin, Tekan Tombol Bantuan Untuk Info Le
 <b>Inilah Bantuan Untuk Perintahku.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: FILM MFA
+➥ Creator: ART2WORK MOVIE
 ➥ Library: Pyrogram
 ➥ Language: Python 𝟹
 ➥ Data Base: MongoDB
@@ -20,13 +20,13 @@ Cukup Tambahkan saya ke Grupmu Sebagai Admin, Tekan Tombol Bantuan Untuk Info Le
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://t.me/MoviesubindoMFA_01'>Here 👈</a>
+Source: <a href='https://t.me/art2work_movie'>Here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/FilmMFA'>FILM MFA</a>
+- <a href='https://t.me/art2wotk'>ART2WORK</a>
 
 <b>Grub</b>
-- <a href='https://t.me/+iXFDwdXc_FswZTNl'>Grub</a>"""
+- <a href='https://t.me/ART2WORK_GRUB</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
