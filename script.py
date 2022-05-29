@@ -3,7 +3,7 @@ class Script(object):
 
 Aku  <a href=https://t.me/bttvybbtdctvygyhybot{}>{}</a>!
 
-<b>Aku bisa menyediakan Film.  Mudah Menggunakanku :)
+<b>Aku bisa menyediakan Film kesukaanmu.  Mudah Menggunakanku :)
 
 Cukup Tambahkan saya ke Grupmu Sebagai Admin, Tekan Tombol Bantuan Untuk Info Lebih Lanjut..</b>"""
 
